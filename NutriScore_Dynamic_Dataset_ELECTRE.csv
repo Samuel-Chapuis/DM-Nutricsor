@@ -1,0 +1,429 @@
+Nom_Produit,Marque,Categorie,Energie_kJ,Sucres_g,Graisses_Sat_g,Sel_g,Proteines_g,Fibres_g,Fruits_Legumes_Pct,NutriScore_Score,NutriScore_Lettre,Points_N,Points_P,GreenScore_Lettre,GreenScore_Score,ELECTRE_Pess_0.6,ELECTRE_Opt_0.6,ELECTRE_Pess_0.7,ELECTRE_Opt_0.7
+Concentré de tomates Aicha,Aicha,vegetables,132.0,2.43,0.0,0.27,1.24,0.811,0.0,1,B,1,0,C,59,C,C,C,B
+Aicha Tomato Paste,Aicha,vegetables,496.0,9.0,0.0,0.5,4.6,3.0,0.0,3,C,4,1,C,46,C,C,C,B
+Raw kimchi,Vadasz,vegetables,63.0,0.0,0.1,2.065,1.1,1.8,0.0,10,C,10,0,A,88,A,A,B,A
+Beurre de cacahuètes,Maribel,vegetables,2860.0,3.9,12.0,0.03,30.4,9.2,0.0,14,D,19,5,D,34,C,C,D,B
+Carottes rapees citron dnp 320g,Bonduelle,vegetables,301.0,4.5,0.3,0.71,1.0,3.0,86.0,-1,A,4,5,A,79,B,B,C,B
+Aubergines cuisinées à la Provençal,Cassegrain,vegetables,344.0,5.6,0.6,0.76,1.2,2.2,81.0,0,A,5,5,B,73,B,B,C,B
+Solis,Nestle nutrition,vegetables,284.0,6.0,0.4,1.0,1.2,0.6,0.0,6,C,6,0,A,77,C,C,D,B
+Carottes râpées à la ciboulette,Saladinettes,vegetables,331.0,5.0,0.4,0.865,1.1,28.0,0.0,0,A,5,5,A,76,B,B,C,B
+Haricots Verts extrafins 12,Cassegrain,vegetables,82.0,1.3,0.1,0.79,1.4,2.4,100.0,-2,A,3,5,A,77,B,B,B,B
+Italian Chopped Tomatoes in tomato juice,by sainsbury's,vegetables,101.0,3.5,0.1,0.07,1.2,0.9,0.0,1,B,1,0,A,89,B,B,C,B
+Oven Baked Sweet Potato Fries,Strong Roots,vegetables,805.0,16.2,0.625,0.287,2.75,5.38,0.0,3,C,7,4,A,86,C,C,C,B
+Batchelors  Mushy Original,Batchelors,vegetables,368.0,1.4,0.2,0.45,5.9,3.9,0.0,0,A,3,3,A,84,B,B,B,B
+Chunky chopped tomatoes,Aldi,vegetables,88.0,3.3,0.0,0.0,1.4,1.0,0.0,0,A,0,0,A,77,A,A,C,A
+Carottes rapees citron dnp 500g,Bonduelle,vegetables,301.0,4.5,0.3,0.71,1.0,3.0,86.0,-1,A,4,5,A,77,B,B,C,B
+Chopped Tomatoes 4pk,Napolina,vegetables,96.0,3.6,0.0,0.1,1.3,1.0,0.0,1,B,1,0,A,88,B,B,C,A
+Double Concentré de Tomates,Sicam,vegetables,354.0,13.8,0.2,0.13,3.9,3.8,0.0,0,A,2,2,C,51,B,B,C,B
+Tomate triturado,Hacendado,vegetables,117.0,4.0,0.0,0.492,0.8,0.0,0.0,3,C,3,0,A,77,C,C,C,B
+Curry de pois chiches aux épices douces daucy 380g,D'aucy,vegetables,373.0,2.5,1.0,0.87,3.5,3.2,71.4,1,B,5,4,A,86,B,B,C,B
+GOLDEN VEGETAB,Ben's Original,vegetables,632.0,0.7,0.1,0.44,3.2,1.2,0.0,2,B,3,1,C,51,C,C,C,B
+Poêlée Paysanne 750g,Bonduelle,vegetables,281.0,2.3,0.7,0.71,1.7,3.3,67.0,0,A,3,3,B,73,B,B,B,B
+Tomatoes  Cherry Tomatoes Italian,Italiamo,vegetables,134.0,3.8,0.0,0.03,1.5,2.3,0.0,1,B,1,0,A,82,B,B,B,A
+Haricots Verts extrafins 14,Cassegrain,vegetables,82.0,1.3,0.1,0.79,1.4,2.4,100.0,-2,A,3,5,A,85,B,B,B,A
+Haricots Verts extrafins 44,Cassegrain,vegetables,82.0,1.3,0.1,0.79,1.4,2.4,100.0,-2,A,3,5,A,77,B,B,B,B
+Polpa Finely Chopped Italian Tomatoes,Lidl,vegetables,92.0,3.8,0.1,0.01,1.1,0.8,0.0,1,B,1,0,A,77,A,A,C,B
+Italian Finely Chopped Tomatoes,Tesco,vegetables,105.0,4.0,0.1,0.03,1.4,0.9,0.0,1,B,1,0,A,84,B,B,C,B
+Poivrons grillés,Freshona,vegetables,163.0,6.1,0.5,1.16,0.6,0.9,0.0,6,C,6,0,A,76,C,C,D,B
+Tomatenpuree,"Baresa, Freshona",vegetables,393.0,13.2,0.14,0.7,4.7,5.04,0.0,1,B,5,4,C,46,C,C,C,B
+Mes Carottes râpées à la ciboulette,Pierre Martinet,vegetables,329.0,5.0,0.4,0.88,1.1,2.8,0.0,5,C,5,0,A,77,B,B,C,B
+Coleslaw choux blanc et carottes,Saladinettes,vegetables,454.0,6.7,0.6,1.0,0.9,2.4,0.0,7,C,7,0,A,77,B,B,D,B
+Chopped tomatoes in tomato juice,Everyday Essentials,vegetables,93.0,3.8,0.1,0.01,1.1,0.8,0.0,1,B,1,0,A,86,A,A,C,B
+Courgettes à la Provençale 14,Cassegrain,vegetables,260.0,5.2,0.5,0.71,1.8,1.3,82.0,-1,A,4,5,A,81,C,B,C,A
+Carottes,Monique ranou,vegetables,326.0,5.0,0.4,0.87,0.7,2.5,0.0,5,C,5,0,A,80,B,B,C,B
+Italian chopped tomatoes in tomato juice,Morrisons,vegetables,87.0,2.7,0.1,0.09,0.9,0.9,0.0,0,A,0,0,A,77,B,B,B,B
+Excellence Noir Prodigieux 90 Cacao,Lindt,chocolates,2477.0,7.0,30.0,0.03,10.0,0.0,0.0,18,D,18,0,E,29,D,D,D,D
+Chocolat noir  85 cacao,J.D. Gross,chocolates,2510.0,12.0,28.0,0.0,12.0,16.0,0.0,13,D,18,5,D,43,D,D,D,B
+Organic 70 Dark Chocolate Bar,Green & Black's,chocolates,2428.0,29.0,25.0,0.01,9.1,10.0,0.0,16,D,21,5,D,40,D,D,E,B
+Excellence Noir Intense 70 Cacao,Lindt,chocolates,2350.0,30.0,24.0,0.02,9.5,0.0,0.0,21,E,21,0,E,29,D,D,E,D
+Dark chocolate,Green and black,chocolates,2530.0,13.9,30.0,0.131,10.0,12.8,0.0,13,D,18,5,C,55,C,C,D,B
+Excellence Noir Puissant 85 Cacao,Lindt,chocolates,2418.0,15.0,27.0,0.02,12.5,0.0,0.0,21,E,21,0,E,29,D,D,E,D
+Extra dark 74 Cocoa,fin CARRÉ,chocolates,2367.0,26.0,26.0,0.02,9.9,0.0,0.0,21,E,21,0,D,40,D,D,E,D
+70 chocolate,Lindt & Sprüngli,chocolates,2370.0,30.0,24.0,5e-05,9.5,0.0,0.0,21,E,21,0,E,29,D,D,E,D
+Excellence 85 Cacao Rich Dark,Lindt,chocolates,2420.0,15.0,27.0,0.0125,12.5,15.0,0.0,16,D,21,5,E,26,E,E,E,B
+Edelbitter 70 Cacao,J.D Gross,chocolates,2280.0,28.0,24.8,0.0,8.8,12.0,0.0,15,D,20,5,E,16,E,E,E,B
+Bitter Extra Kraftig,"Lindt,Lindt&Sprüngli",chocolates,2397.0,1.0,30.0,0.7,14.0,0.0,0.0,20,E,20,0,E,24,D,D,E,C
+Nestlé Dessert,Nestlé,chocolates,2285.0,46.4,20.2,0.01,6.0,7.3,0.0,21,E,26,5,D,43,D,D,E,C
+Chocolat au lait,Milka,chocolates,2255.0,55.0,19.0,0.275,6.5,2.3,0.0,32,E,32,0,E,26,E,E,E,C
+Lidl Organic Dark Chocolate,LIDL,chocolates,2510.0,26.666666666667,26.666666666667,0.0,10.0,10.0,0.0,16,D,21,5,C,53,C,C,E,B
+Excellence Noir Subtil Doux 70 Cacao,Lindt Excellence,chocolates,2528.0,29.0,29.0,0.01,6.9,0.0,0.0,21,E,21,0,E,29,D,D,E,D
+Chocolat Noir 92 cacao,Dark Excellente,chocolates,2430.0,10.0,33.0,0.0,15.0,0.0,0.0,18,D,18,0,E,15,D,D,E,D
+Dark Chocolate,Tesco finest,chocolates,2470.0,28.0,27.0,0.1,7.0,11.0,0.0,16,D,21,5,D,30,D,D,E,C
+Dark milk chocolate,Tesco,chocolates,2479.0,33.6,27.8,0.23,9.9,5.6,0.0,24,E,27,3,C,48,C,C,E,B
+Excellence Noir Corsé 78 Cacao,Lindt,chocolates,2410.0,3.4,5.8,0.0075,10.0,0.0,0.0,12,D,12,0,E,29,D,D,D,C
+Chocolat monogram,Macao,chocolates,2209.0,53.0,18.0,0.0,5.0,7.3,0.0,26,E,31,5,E,15,E,E,E,D
+Chocolate Negro,Dark Excelente,chocolates,2354.0,12.0,30.0,0.02,14.0,0.0,0.0,18,D,18,0,E,15,D,D,E,D
+180G C OR NOIR NOISETTE,"Côte D’Or, Mondelez",chocolates,2381.0,40.0,16.0,0.01,7.3,7.8,0.0,21,E,26,5,E,29,D,D,E,C
+Tagger,Bimo,chocolates,2235.0,47.0,18.0,0.18,3.3,1.5,0.0,26,E,26,0,D,33,D,D,E,D
+Edelbitter Mild 90,J.D. Gross,chocolates,2500.0,7.3,31.4,0.02,11.0,14.6,0.0,13,D,18,5,D,34,D,D,D,B
+Chocolat noir Equateur Bio,J.D. Gross,chocolates,2641.0,14.0,34.0,0.01,9.0,11.5,0.0,13,D,18,5,C,49,C,C,E,B
+Excellence Noir à la Pointe de Fleur de Sel,Lindt,chocolates,2240.0,47.0,19.0,0.37,5.7,0.0,0.0,27,E,27,0,E,29,D,D,E,D
+Dark Chocolate,Fin Carré,chocolates,2222.0,47.7,18.9,0.01,5.7,7.5,0.0,21,E,26,5,C,47,D,D,E,C
+Chocolate negro 95 cacao,J. D. Gross,chocolates,2480.0,2.4,31.2,0.03,12.8,10.4,0.0,12,D,17,5,D,34,B,B,D,B
+Toblerone,Toblerone,chocolates,2209.0,60.0,17.0,0.12,5.6,2.4,0.0,31,E,31,0,B,70,D,D,E,B
+Organic Milk Chocolate,Green & Black's,chocolates,2347.0,46.0,22.0,0.22,9.8,2.8,0.0,28,E,28,0,C,59,C,C,E,B
+Noir Extra,Poulain,chocolates,2119.0,52.0,18.0,0.01,4.9,7.2,0.0,26,E,31,5,E,29,D,D,E,D
+Шоколад с 6 парченца малини,"J.D. Gross, Lidl",chocolates,2310.0,28.8,24.0,0.08,8.0,11.2,0.0,15,D,20,5,B,64,C,C,E,B
+Milka Tablette Noisette,"Milka, Mondelez",chocolates,2356.0,45.0,16.0,0.22,8.2,3.7,0.0,26,E,27,1,D,33,D,D,E,C
+NOIR DEGUSTATION 70 CARAMEL,"J.D. Gross, Lidl",chocolates,2280.0,35.2,22.4,0.16,7.2,9.6,0.0,20,E,25,5,D,44,D,D,E,C
+Excellence Noir Délicat Doux 85 Cacao,Lindt EXCELLENCE,chocolates,2523.0,14.0,33.0,0.03,8.9,0.0,0.0,18,D,18,0,D,38,D,D,E,D
+,Aiguebelle,chocolates,2142.0,25.3,24.4,0.01,9.2,0.0,0.0,20,E,20,0,E,29,D,D,E,D
+délice noir,Aiguebelle,chocolates,2226.0,44.0,22.0,0.011,5.2,0.0,0.0,25,E,25,0,E,15,E,E,E,E
+85 Cocoa  Dark Chocolate,Moser Roth,chocolates,2530.0,13.2,32.0,0.0012,10.8,13.2,0.0,13,D,18,5,E,20,D,D,E,B
+Noir equitable 85 Pérou,Alter Eco,chocolates,2640.0,14.0,32.0,0.01,8.1,13.0,0.0,13,D,18,5,C,54,C,C,E,C
+single origin milk chocolate,Marks & Spencer,chocolates,2586.0,37.2,29.1,0.25,8.4,0.0,0.0,27,E,27,0,D,34,D,D,E,D
+Chocolat noir 85 Madagascar,Ethiquable,chocolates,2562.0,14.0,31.0,0.0,11.0,11.0,0.0,13,D,18,5,C,49,C,C,E,B
+Milka oreo,Milka Oreo,chocolates,2333.0,50.0,19.0,0.45,5.0,0.2,0.0,28,E,28,0,E,19,E,E,E,D
+Chocolate negro,"Carrefour BIO, Carrefour",chocolates,2353.0,27.0,26.0,0.03,9.6,12.0,0.0,16,D,21,5,C,49,C,C,E,B
+Absolute black dark chocolate,Montezuma's,chocolates,2477.0,3.0,33.0,0.02,13.0,17.0,0.0,12,D,17,5,E,28,B,B,E,B
+Čokoláda na vaření,"Fin Carré, lidl",chocolates,2125.0,48.0,18.0,0.0,6.8,10.0,0.0,21,E,26,5,C,46,C,C,E,C
+180G LT NOISETTE COTE D OR,Côte d'Or,chocolates,2322.0,43.0,14.0,0.18,9.3,5.1,0.0,22,E,25,3,D,33,D,D,D,B
+Dark Chocolate,TESCO finest,chocolates,2640.0,13.0,33.0,0.1,10.0,13.0,0.0,13,D,18,5,D,30,D,D,D,B
+Noir 70 Intense,"Côte d'Or,Mondelēz",chocolates,2510.0,28.0,29.0,0.05,7.0,11.0,0.0,16,D,21,5,E,29,D,D,E,C
+Milka wholenut,Milka,chocolates,2322.0,47.0,15.0,0.3,8.1,0.0,0.0,27,E,27,0,E,24,D,D,E,E
+Fine  Gourmande Noir 70,"Fine gourmande,Poulain",chocolates,2226.0,0.5,27.0,0.01,7.6,11.0,0.0,11,D,16,5,E,29,C,C,D,B
+Tentation aiguebelle,Aiguebelle,chocolates,2435.0,10.5,29.8,0.03,10.0,0.0,0.0,18,D,18,0,E,15,D,D,E,D
+Noir intense dessert 70,Lindt,chocolates,2280.0,30.0,22.0,0.03,9.6,0.0,0.0,20,E,20,0,E,28,E,E,E,E
+Milk Chocolate,Ferrero Rocher,chocolates,2554.0,45.4,21.4,0.16,6.2,0.0,0.0,27,E,27,0,E,17,E,E,E,E
+AFTER EIGHT Coffret 300g,"After Eight, Nestlé",chocolates,1791.0,66.2,7.6,0.0,2.2,2.8,0.0,27,E,27,0,E,20,D,D,D,D
+NAPOLITAIN,Aiguebelle,chocolates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,A,0,0,E,16,A,A,D,A
+Excellence Noir Orange Intense,Lindt,chocolates,2229.0,46.0,17.0,0.08,7.0,0.0,0.0,26,E,26,0,B,70,D,D,E,C
+SLICED WHITE SOURDOUGH BREAD WITH GRAINS  SEEDS,JASONS SOURDOUGH,breads,992.0,1.4,0.3,0.89,10.7,4.7,0.0,0,A,6,6,A,79,B,B,B,B
+Pain de mie grandes tranches Seigle  Graines 500g,la Boulangère,breads,1246.0,4.2,1.0,0.96,12.0,7.2,0.0,-2,A,8,10,A,83,C,C,C,B
+Jasons Sourdough,Jasons,breads,975.0,2.6,0.2,0.855,9.3,3.6,0.0,2,B,6,4,A,84,B,B,B,B
+14 Maxi Tranches complet sans sucres ajoutés,Jacquet,breads,1026.0,3.8,0.3,1.2,8.7,6.6,0.0,2,B,9,7,A,83,B,B,C,B
+Dark Rye Crispbread,Ryvita,breads,1480.0,2.86,0.19,0.705,10.5,14.5,0.0,-2,A,7,9,A,82,B,B,B,B
+Seed Sensations,Hovis,breads,1160.0,3.86,0.682,0.886,10.0,5.23,0.0,1,B,8,7,A,78,B,B,C,B
+Bakery Co 5 The Original Bagels,New York Bakery Co,breads,958.0,4.4,0.8,0.188,7.8,2.6,0.0,0,A,3,3,A,81,B,B,C,B
+Rye  Mixed Seed Sourdough Bread,Tesco,breads,1100.0,2.4,0.8,0.765,8.6,6.8,0.0,-1,A,6,7,A,82,B,B,C,B
+pain de mie grandes tranches spécial sandwich complet,"Lidl,Maître Jean Pierre",breads,1089.0,5.0,0.5,1.0,8.3,6.3,0.0,2,B,9,7,B,74,C,C,C,B
+Harrys brioche tressee nature au sucre perle sans additifs 500g,Harrys,breads,1496.0,13.0,1.0,0.8,8.6,4.5,0.0,4,C,9,5,C,47,C,C,C,C
+100 mie complet 500g,Harry's,breads,1053.0,5.5,0.4,1.1,7.5,6.5,0.0,2,B,9,7,A,85,C,C,C,B
+MULTISEED WHOLEMEAL FARMHOUSE LOAF,Sainsbury's taste the difference,breads,1136.0,4.2,1.1,0.84,12.8,7.4,0.0,-1,A,9,10,A,75,C,C,C,B
+Biscottes 6 Céréales,Heudebert,breads,1698.0,3.4,2.4,1.6,13.0,5.0,0.0,12,D,15,3,A,77,C,C,C,B
+Brioche moins de sucre,Harrys,breads,1354.0,9.3,1.1,1.0,8.4,7.2,0.0,6,C,11,5,C,49,C,C,D,C
+Pain grillé au blé complet,LU Pelletier,breads,1636.0,2.6,2.1,1.8,12.0,5.1,0.0,12,D,15,3,B,70,B,B,C,B
+Classic Torinesi Breadsticks,Crosta & Mollica,breads,1700.0,2.8,1.0,2.1,19.8,1.2,0.0,15,D,15,0,A,85,C,C,C,B
+Harrys pain de mie 100 mie nature sans croute 500g,Harrys,breads,1115.0,7.0,0.3,1.1,7.0,4.0,0.0,5,C,9,4,A,86,C,C,C,B
+Pain de mie grandes tranches Toastiligne complet,la boulangère,breads,953.0,2.8,0.9,0.98,10.0,6.2,0.0,-2,A,6,8,B,74,B,B,B,B
+Wholemeal Sliced Wholemeal Bread,Warburtons,breads,950.0,2.52,0.42,0.945,10.5,6.3,0.0,-2,A,6,8,B,67,B,B,B,B
+6 Wraps blé complet,Old El Paso,breads,1240.0,2.24,1.03,1.05,9.14,5.17,0.0,3,C,9,6,A,78,B,B,C,B
+Seeded Batch,Warburtons,breads,1231.0,2.6,1.3,0.95,10.6,6.0,0.0,0,A,8,8,B,68,B,B,C,B
+The Original Crunchy Rye Breads,Ryvita,breads,1480.0,2.86,0.19,0.762,10.5,13.3,0.0,-2,A,7,9,B,72,B,B,B,B
+Pain de mie american sandwich complet sans sucres ajoutés 600g,Harrys,breads,1178.0,3.6,0.5,1.1,7.7,8.1,0.0,1,B,9,8,B,74,C,C,C,B
+Tasty Wholemeal Medium,Hovis,breads,920.0,4.0,0.5,0.888,10.0,6.75,0.0,-1,A,7,8,B,67,B,B,C,B
+5050 Medium Bread,Kingsmill,breads,982.0,8.75,1.0,0.95,9.5,11.8,0.0,-1,A,7,8,B,67,C,C,C,B
+Grilletines blé complet,"Brioche Pasquier, Pasquier",breads,1760.0,7.3,2.0,0.87,13.0,6.7,0.0,8,C,12,4,A,79,C,C,D,A
+Wholemeal Bread,Warburtons,breads,953.0,2.46,0.446,0.943,10.5,6.47,0.0,-2,A,6,8,B,67,B,B,B,B
+Harrys beau  bon pain de mie farine de ble cereales  graines 320g,Harrys,breads,1206.0,3.5,0.7,1.0,12.0,6.0,0.0,0,A,9,9,A,80,B,B,C,B
+Ryvita Multigrain Crispbread,RYVITA,breads,1480.0,3.81,0.952,0.571,12.4,17.1,0.0,-3,A,7,10,B,72,C,C,C,B
+Italian Original Breadsticks,Tesco,breads,1748.0,2.8,1.4,1.8,11.2,2.8,0.0,15,D,15,0,A,87,B,B,C,B
+Tartines de Pain Blé Complet,Brioche Pasquier,breads,1615.0,4.2,0.8,1.5,13.0,8.7,0.0,7,C,12,5,A,80,B,B,C,A
+4 Greek Style Flatbreads,K Kitchen Deli,breads,1076.0,2.9,1.0,0.89,11.3,6.7,0.0,-1,A,7,8,A,78,B,B,C,B
+Le Ravioli pur boeuf,Panzani,ravioli,384.0,1.4,0.8,0.75,3.8,1.6,0.0,3,C,4,1,B,68,B,B,C,B
+Ravioli au tofu tomates basilic,Céréal Bio,ravioli,465.0,2.9,0.4,0.74,3.8,3.8,0.0,2,B,4,2,A,87,B,B,B,B
+Ravioli pur bœuf  sans colorant ni conservateur,Panzani,ravioli,384.0,1.6,0.8,0.9,3.8,0.8,0.0,4,C,5,1,B,61,B,B,D,B
+GIRASOLI RICOTTA EPINARD,Lustucru Lustucru selection,ravioli,1024.0,3.6,4.0,1.1,8.1,2.9,0.0,13,D,13,0,B,62,C,C,C,C
+Ravioli boeuf,"Lustucru, Lustucru selection",ravioli,1111.0,3.8,2.0,1.0,9.0,2.4,0.0,11,D,11,0,E,16,C,C,C,C
+Ravioli vegetariens,"Carrefour BIO, Carrefour",ravioli,360.0,3.7,0.1,0.83,2.4,1.5,0.0,6,C,6,0,A,82,C,C,C,B
+Chicken Gyoza Dinner Dumplings,Itsu,ravioli,649.0,2.5,1.2,0.71,8.2,1.7,0.0,2,B,5,3,D,37,C,C,C,C
+Beef Ravioli,Heinz,ravioli,310.0,3.1,0.7,0.6,2.5,0.8,0.0,1,B,2,1,C,50,C,C,C,C
+Ravioli bio au blé complet épinards ricotta burrata,Giovanni Rana,ravioli,1064.0,4.1,2.6,0.96,9.9,3.7,0.0,5,C,10,5,A,80,C,C,C,B
+PZ RAVIOLI BOLO 800GR,Panzani,ravioli,431.0,1.9,1.7,0.85,4.5,0.7,0.0,5,C,6,1,B,60,C,C,D,C
+Ravioli chèvre et ciboulette,"Jardin bio, LÉA NATURE",ravioli,366.0,4.9,0.6,0.54,3.0,1.8,0.0,3,C,4,1,A,75,B,B,C,B
+Ravioli pur bœuf,Zapetti,ravioli,351.0,1.9,0.8,0.85,3.7,1.1,0.0,4,C,5,1,B,67,B,B,C,B
+Le Ravioli Bolognaise sans conservateur,Panzani,ravioli,433.0,1.9,1.7,0.85,4.5,1.3,0.0,5,C,6,1,C,59,C,C,C,C
+Girasoli Potiron  Petits Oignons Grillés Plaisir du Primeux,Rana,ravioli,1037.0,7.7,2.6,0.73,8.8,6.8,0.0,2,B,9,7,B,67,C,C,C,B
+Pesto basilic et pignons,Giovanni Rana,ravioli,1288.0,4.6,5.3,1.1,8.7,6.9,0.0,10,C,14,4,C,55,C,C,C,C
+Gourmet  Pâtes fraîches aux œufs farcies aux champignons,"Giovanni Rana, Rana",ravioli,1087.0,4.5,2.5,1.1,9.1,7.0,0.0,6,C,11,5,B,62,C,C,C,B
+Lustucru ravioli chevre epinard 250g,Lustucru selection,ravioli,1132.0,4.4,2.8,0.93,8.8,2.3,0.0,7,C,10,3,C,50,C,C,C,C
+Ravioles du Dauphiné LABEL ROUGE IGP Lot de,Saint jean,ravioli,1195.0,1.5,8.1,1.5,13.0,2.5,0.0,18,D,18,0,B,72,B,B,C,B
+Girasoli cepes ricotta 250g,"Lustucru, Lustucru selection",ravioli,1048.0,7.1,2.7,1.1,8.1,2.9,0.0,11,D,11,0,B,63,C,C,C,C
+Grandi Girasoli  Ricotta Epinards  Mascarpone,"Giovanni Rana, Rana",ravioli,993.0,3.8,4.1,1.4,11.0,5.2,0.0,10,C,13,3,B,71,C,C,C,B
+ravioli pur boeuf,"Marque Repère, Côté Table",ravioli,358.0,2.7,0.8,0.7,4.0,1.5,18.39,3,C,4,1,B,69,B,B,C,B
+Ravioli au fromages,D'ANTELLI,ravioli,1109.0,6.3,3.4,1.0,11.0,1.9,0.0,12,D,12,0,C,50,C,C,C,C
+Raviolis du Dauphiné,Nos Régions ont du Talent,ravioli,1203.0,1.8,7.5,1.7,14.0,1.4,0.0,18,D,18,0,B,63,C,C,D,B
+Plaisir du primeur,"Giovanni Rana, Rana",ravioli,925.0,6.1,2.4,1.1,8.28,5.5,0.0,4,C,10,6,B,71,C,C,C,C
+Cèpes Ricotta  Champignons rôtis,Rana,ravioli,958.0,5.0,3.9,1.2,8.0,4.5,0.0,9,C,11,2,B,67,C,C,C,C
+Ravioli pur bœuf,Carrefour,ravioli,483.0,3.2,1.1,0.92,4.1,1.5,0.0,5,C,6,1,A,76,C,C,C,C
+Ravioli 6 Légumes,"Marque Repère, Côté Table",ravioli,366.0,2.1,0.3,0.8,2.9,1.7,0.0,4,C,5,1,B,68,B,B,C,B
+Ravioli 6 légumes,Zapetti,ravioli,316.0,2.3,0.5,0.77,2.7,1.8,0.0,2,B,3,1,B,73,B,B,B,B
+Ravioli 4 fromages,Carrefour,ravioli,1141.0,3.3,3.4,1.0,11.0,2.2,0.0,11,D,11,0,C,54,C,C,C,C
+Ravioli de légumes,"Jardin Bio étic, Jardin bio, Léa Nature",ravioli,319.0,3.0,0.2,0.65,2.3,1.4,0.0,3,C,3,0,A,87,B,B,C,B
+Ravioli pur boeuf,"Marque Repère, Côté Table",ravioli,358.0,2.7,0.8,0.7,4.0,1.5,18.39,3,C,4,1,C,59,C,B,C,B
+Ravioli ricotta épinard sauce à la tomate,Picard,ravioli,515.0,4.0,1.9,0.7875,5.4,1.8,0.0,4,C,6,2,B,64,C,C,C,C
+Gyoza poulet legumes,AJINOMOTO,ravioli,782.0,2.7,2.4,0.85,7.3,1.5,0.0,5,C,8,3,C,55,C,C,C,C
+Ravioli épinard et ricotta,"Jardin Bio Etic,Jardin bio",ravioli,328.0,0.0,1.6,0.7,2.2,0.5,0.0,4,C,4,0,A,80,C,C,C,B
+8 Gyoza aux légumes,Picard,ravioli,651.0,3.9,0.5,1.2,4.6,2.0,58.0,5,C,7,2,A,76,B,B,C,B
+Ravioli Pikant,"Nestlé, Maggi",ravioli,335.0,1.7,0.7,0.91,3.2,1.0,0.0,3,C,4,1,C,59,C,C,C,B
+Cappelletti Jambon Cru,Giovanni Rana,ravioli,1267.0,5.1,3.1,1.9,13.0,0.0,0.0,16,D,16,0,C,55,C,C,D,C
+vegan Medaglioni with spinach broccoli and olives,Vemondo,ravioli,909.0,3.1,0.7,1.32,6.3,4.8,0.0,4,C,8,4,B,74,C,C,C,B
+Raviolis 4 fromages,"Marque Repère, Turini",ravioli,1216.0,3.2,3.2,1.1,12.0,1.6,0.0,11,D,11,0,C,54,C,C,C,C
+Ravioli Ricotta Epinards,"Bio Village, Marque Repère",ravioli,1031.0,2.8,2.0,1.4,8.6,3.4,12.4,10,C,11,1,A,75,C,B,C,B
+Gyoza poulet,Ajinomoto,ravioli,712.0,1.7,1.1,1.1,7.6,1.9,0.0,5,C,8,3,E,25,C,C,C,C
+Ravioli pur boeuf français,Zapetti,ravioli,391.0,1.9,0.8,0.85,3.7,1.1,0.0,4,C,5,1,B,61,B,B,C,B
+Gyoza crevettes,Ajinomoto,ravioli,763.0,2.3,0.7,0.83,9.7,1.4,0.0,2,B,6,4,B,64,B,B,C,B
+Ravioli au boeuf,Panzani,ravioli,322.0,1.6,0.3,0.85,3.3,0.5,0.0,3,C,4,1,B,69,B,B,D,B
+Ravioli 4 fromages,Lidl,ravioli,1134.0,3.3,3.4,1.0,11.0,2.2,0.0,11,D,11,0,C,50,C,C,C,C
+Ravioli aux girolles poêlées  persil de la Drôme sachet,Saint jean,ravioli,1114.0,1.5,2.4,1.3,9.2,4.2,0.0,9,C,11,2,A,76,B,B,C,B
+POMPOTES Compotes Gourdes Pomme Nature 1x90g,"Materne, POM'POTES, Sans sucres ajoutés",compotes,257.0,11.0,0.2,0.01,0.5,1.2,0.0,1,B,1,0,A,89,B,B,C,B
+Compote de pomme allégée,Andros,compotes,264.0,14.0,0.0,0.0,0.3,1.9,0.0,1,B,1,0,A,86,A,A,B,A
+Compote Pomme Nature,Andros,compotes,230.0,12.0,0.0,0.0,0.3,1.9,92.0,-4,A,1,5,A,87,A,A,B,A
+Compote pommes allégée en sucres,Freshona,compotes,300.0,16.0,0.0,0.0,0.2,2.2,0.0,4,C,4,0,A,87,B,B,B,A
+Pomme vanille,Andros,compotes,362.0,20.0,0.0,0.0,0.3,1.7,0.0,5,C,5,0,A,86,B,B,C,A
+pomme poire,Andros,compotes,331.0,18.0,0.0,0.0,0.3,1.6,0.0,4,C,4,0,A,87,B,B,C,A
+PomPotes Pomme,"Materne, Pom' Potes",compotes,293.0,12.0,0.2,0.1,0.5,1.2,0.0,1,B,1,0,A,89,B,B,C,B
+Purée de pommes sans sucres ajoutés,Vergers Gourmands,compotes,229.0,10.0,0.0,0.0,0.9,0.4,0.0,1,B,1,0,A,89,A,A,D,A
+PomPotes PommePoire,Materne,compotes,243.0,10.0,0.2,0.01,0.5,1.6,0.0,1,B,1,0,A,80,B,B,C,B
+Pomme Châtaigne,Andros,compotes,544.0,27.0,0.0,0.0,0.5,1.8,0.0,5,C,5,0,A,79,B,B,B,A
+Pêche morceaux généreux,Andros,compotes,331.0,17.0,0.0,0.02,0.9,1.9,0.0,4,C,4,0,A,76,B,B,B,B
+Pom Potes Pomme Banane,"Materne, Pom' Potes",compotes,272.0,12.0,0.2,0.01,0.5,1.3,0.0,1,B,1,0,A,80,B,B,C,B
+Pomme,Carrefour,compotes,225.0,11.0,0.0,0.04,0.0,1.7,0.0,1,B,1,0,A,81,B,B,C,A
+Compote de pommes morceaux,Andros,compotes,396.0,21.0,0.0,0.0,0.2,1.3,0.0,5,C,5,0,A,76,B,B,C,B
+Pommes Poires Williams sans sucre ajouté,Charles & Alice,compotes,234.0,11.0,0.1,0.01,0.5,1.6,0.0,1,B,1,0,A,89,A,A,C,B
+Compote de pomme,"Marque Repère, Douceur du Verger",compotes,228.0,12.0,0.1,0.01,0.5,1.7,0.0,1,B,1,0,A,86,A,A,C,B
+Pommes  sans sucres ajoutés,Charles & Alice,compotes,233.0,11.0,0.1,0.0,0.5,1.5,0.0,1,B,1,0,A,85,A,A,C,A
+Dessert fruitier Sans Sucres Ajoutés Pomme Fraise,andros,compotes,219.0,11.0,0.0,0.0,0.4,2.2,0.0,1,B,1,0,A,79,A,A,B,A
+Gourde 5 fruits pomme abricot pêche poire banane,"Materne, Pom'potes",compotes,236.0,12.0,0.2,0.01,0.5,1.4,0.0,1,B,1,0,A,80,B,B,C,B
+Pommes Mangues avec morceaux,Charles & Alice,compotes,277.0,13.0,0.2,1e-05,0.5,1.5,99.8,-4,A,1,5,A,85,B,A,C,A
+Pommes Abricots Bergeron,Charles & Alice,compotes,192.0,8.8,0.0,0.01,0.0,1.0,0.0,1,B,1,0,A,88,A,A,C,A
+PomPotes 5 fruits sans sucres ajoutés,Materne,compotes,228.0,9.67,0.222,0.0111,0.556,1.44,0.0,1,B,1,0,A,80,B,B,C,B
+Pompotes 5 fruits Pomme Goyave Mangue Ananas Passion,Materne,compotes,237.0,10.0,0.2,0.01,0.5,1.4,98.0,-4,A,1,5,A,81,B,B,C,A
+Compote pomme mirabelle,POMPOTES,compotes,245.0,11.0,0.2,0.01,0.5,1.0,0.0,1,B,1,0,A,89,B,B,C,B
+Pomme Chataigne,Andros,compotes,536.0,25.0,0.0,0.0,0.5,2.0,0.0,5,C,5,0,A,87,B,B,B,A
+Pommes Myrtille SSA,Charles & Alice,compotes,230.0,11.0,0.1,0.01,0.5,1.0,0.0,1,B,1,0,A,88,A,A,C,B
+Postre de manzana,Jamar,compotes,328.0,17.0,0.1,0.0,0.5,1.9,0.0,4,C,4,0,A,76,B,B,B,B
+Compote pomme banane,Andros,compotes,369.0,20.0,0.0,0.0,0.4,1.8,0.0,5,C,5,0,A,81,B,B,B,A
+dessert fruitier pommes nature,Andros,compotes,310.0,17.0,0.0,0.0,0.3,1.3,92.0,-1,A,4,5,A,80,B,A,C,A
+Abricot morceaux moelleux,Andros,compotes,412.0,21.0,0.0,0.03,0.7,1.6,0.0,5,C,5,0,A,79,B,B,C,B
+Compote de pommes allégée en sucres,"Carrefour, Simpl",compotes,256.0,14.0,0.0,0.0,0.0,1.8,0.0,1,B,1,0,A,87,A,A,B,A
+Pommes avec morceaux,VERGER GOURMAND,compotes,297.0,14.0,0.2,0.03,0.3,1.0,0.0,1,B,1,0,A,76,B,B,C,B
+Pomme morceaux sans sucre ajoute,Andros,compotes,213.0,11.0,0.0,0.0,0.3,1.3,0.0,1,B,1,0,A,76,B,B,C,A
+The white one or purple one Organic,Ella's kitchen,compotes,301.0,15.1,0.2,0.03,0.8,1.7,0.0,4,C,4,0,D,44,C,C,D,B
+PomPotes PommeFramboise,"Materne, Pom' Potes",compotes,237.0,10.0,0.111,0.0111,0.556,1.67,0.0,1,B,1,0,A,80,B,B,C,B
+Pomme vanille,Carrefour,compotes,218.0,11.0,0.1,0.04,0.3,1.7,0.0,1,B,1,0,A,89,B,B,C,B
+Pomme Banane Vanille,Charles & Alice,compotes,289.0,13.0,0.1,0.01,0.7,1.4,0.0,1,B,1,0,A,89,B,B,C,B
+Compote de pomme,Eco+,compotes,296.0,14.0,0.4,0.01,0.5,1.6,0.0,1,B,1,0,A,89,B,B,C,B
+PomPotes Pomme Brugnon,Pom'Potes,compotes,222.0,9.6,0.2,0.01,0.5,1.3,0.0,1,B,1,0,A,81,B,B,C,B
+Fraise Morceaux Fondants,Andros,compotes,371.0,17.0,0.0,0.025,0.6,3.4,0.0,4,C,5,1,A,79,B,B,B,B
+Pomme poire,Carrefour,compotes,245.0,12.0,0.0,0.09,0.0,1.9,0.0,1,B,1,0,A,86,B,B,B,A
+Pompotes,Materne,compotes,243.0,10.6,0.5,0.0,0.5,0.0,0.0,1,B,1,0,A,89,B,B,D,A
+Pom  go  Compote de pommes allégée en sucres,Vergers Gourmands,compotes,272.0,15.0,0.0,0.0,0.0,1.3,0.0,4,C,4,0,A,79,A,A,C,A
+Compote de pommes allégée en sucres,Top Budget,compotes,259.0,12.8,0.1,0.01,0.5,0.0,0.0,1,B,1,0,A,89,A,A,D,B
+Delikatess Edelsalami,Dulano,salamis,1560.0,0.5,14.10000038147,4.0,21.5,0.0,0.0,34,E,34,0,E,16,D,D,D,D
+Salam Sasesc,Cristim Salam Sasesc,salamis,1297.0,0.96,11.0,2.2825,16.33,0.0,0.0,24,E,24,0,E,16,D,D,D,D
+Vegane Salami BaguetteStyle,Billie Green,salamis,1083.0,3.4,8.7,3.0,32.0,3.0,0.0,26,E,26,0,E,20,C,C,D,C
+Deperami 100 Pork The Original 10 Lunchbox Minis,Deperami,salamis,2090.0,2.0,18.0,4.1,23.0,0.0,0.0,36,E,36,0,D,30,D,D,E,D
+Salam Victoria,Pikok,salamis,674.0,0.5,4.0,2.0,14.5,0.0,0.0,16,D,16,0,E,16,C,C,D,C
+Delikatess Edelsalami Klassik,"Dulano,Lidl,Stockmeyer",salamis,1577.0,0.5,14.1,3.6,21.5,0.0,0.0,32,E,32,0,E,21,D,D,D,D
+Salami Milano,"Lidl,Dulano",salamis,1473.0,0.0,12.0,3.935,25.0,0.0,0.0,33,E,33,0,E,16,D,D,D,D
+Salam Sinaia,Cămara Noastră,salamis,1745.0,0.1,12.3,4.0,20.9,0.0,0.0,35,E,35,0,E,16,D,D,D,D
+Pepperami The Original,Pepperami,salamis,2070.0,2.0,18.0,3.84,23.0,0.0,0.0,35,E,35,0,E,16,E,E,E,E
+Фует,Dulano,salamis,1778.0,0.0,0.0,0.0,24.0,0.0,0.0,-2,A,5,7,E,24,A,A,D,A
+Kulen,Dobro,salamis,1658.0,0.5,14.0,3.3,25.0,0.0,0.0,30,E,30,0,E,26,D,D,D,D
+Stickado,Aoste,salamis,2116.0,3.2,16.0,5.0,29.0,0.0,0.0,36,E,36,0,E,20,E,E,E,E
+Original Peperami,Peperami,salamis,2096.0,2.0,17.0,3.9,23.0,0.0,0.0,35,E,35,0,E,21,E,E,E,E
+BioSalami  luftgetrocknet,"Bio,Börner-Eisenacher,Gut Bio",salamis,1392.0,0.5,11.5,3.8,21.0,0.0,0.0,32,E,32,0,D,41,D,D,D,D
+Salami im Pfeffermantel,Dulano/LIDL,salamis,1364.0,1.5,10.5,3.7,23.5,0.0,0.0,32,E,32,0,E,16,D,D,D,D
+Salami  Snack  Billie Green,Billie Green,salamis,1536.0,4.3,14.0,2.7,34.0,3.0,0.0,28,E,28,0,E,21,D,D,D,C
+Salami Spianata Romana,"Dulano,Lidl",salamis,1544.0,0.0,12.0,4.2,27.0,0.0,0.0,34,E,34,0,E,21,D,D,D,D
+Italian Salami,Tesco,salamis,1550.0,0.5,10.6,4.13,24.5,0.0,0.0,34,E,34,0,E,23,D,D,D,D
+Salami Pfeffer,"Lidl,Metzgerfrisch",salamis,1565.0,1.0,13.0,3.4425,20.0,1.0,0.0,31,E,31,0,D,41,D,D,D,C
+,Hacendado,salamis,2209.0,0.0,0.0,0.0,26.0,0.0,0.0,-1,A,6,7,E,16,A,A,D,A
+Salam Sasesc felii,CRIS-TIM,salamis,987.0,1.4,7.5,2.28,17.9,0.0,0.0,20,E,20,0,E,16,D,D,D,C
+BioSalami  Klassik,"Aldi,Börner-Eisenacher,Nur Nur Natur",salamis,1580.0,0.26,11.4,4.39,21.1,0.0,0.0,34,E,34,0,D,36,D,D,D,D
+Salami extra,Hacendado,salamis,1913.0,5.1,13.0,3.8,16.0,0.0,0.0,34,E,34,0,E,21,D,D,E,D
+Herzhafte Edelsalami geräuchert,"Gut Drei Eichen,Stockmeyer",salamis,1569.0,0.5,13.0,3.6,22.0,0.0,0.0,32,E,32,0,E,21,D,D,D,D
+salam de sibiu,camara noastra,salamis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,A,0,0,E,16,A,A,D,A
+Landsalami,"Metzgerfrisch,Lidl",salamis,1565.0,1.0,13.0,3.44,20.0,1.0,0.0,31,E,31,0,D,36,D,D,D,C
+Edelsalami Lidl,Dulano,salamis,1728.0,0.9,14.4,4.0325,21.0,0.5,0.0,35,E,35,0,E,16,D,D,D,D
+Salam Sinaia,Cămara noastră,salamis,1745.0,0.1,12.3,4.0,20.9,0.0,0.0,35,E,35,0,E,28,D,D,D,D
+Salam de Sibiu IGP,Lidl,salamis,2053.0,0.5,18.0,4.5,24.0,0.0,0.0,36,E,36,0,E,21,E,E,E,E
+Stickado Salami Sticks,Aoste,salamis,1749.0,3.0,12.0,5.705,33.0,0.0,0.0,35,E,35,0,E,16,D,D,D,D
+Salami 100  pur porc,Herta,salamis,1674.0,1.0,14.0,4.4,20.0,0.5,0.0,34,E,34,0,E,21,D,D,D,D
+Salam Sibiu,Agricola,salamis,1987.0,0.8,16.6,9.5,23.4,0.0,0.0,35,E,35,0,E,21,E,E,E,E
+Wurst Antipastiplatte,"Italiamo, LIDL Italiamo",salamis,1113.0,0.0,6.5,5.2,26.0,0.0,0.0,29,E,29,0,E,16,D,D,D,C
+Salam de Sibiu,"Agricola, Salbac",salamis,1987.0,0.8,16.6,3.8,23.4,0.0,0.0,33,E,33,0,E,25,E,E,E,E
+Salam de sibiu,Crist Tim,salamis,1828.0,0.36,16.15,0.0,29.19,0.0,0.0,15,D,15,0,E,21,D,D,D,A
+Salami 100 pur porc,Herta,salamis,1841.0,1.0,16.0,0.3125,19.0,0.5,0.0,16,D,16,0,E,16,D,D,D,C
+Salami danois pur porc fume aubois de hetre,Saint Alby,salamis,1874.0,0.5,17.0,3.4,16.3,0.5,0.0,32,E,32,0,E,23,D,D,E,D
+Milano Salami,Sainsbury's,salamis,427.0,0.0,2.8,0.915,6.5,0.0,0.0,5,C,7,2,E,16,C,C,D,C
+Bio Salami,Wiltmann,salamis,1512.0,1.0,12.0,4.2,22.2,0.0,0.0,34,E,34,0,D,41,D,D,D,D
+Vegetarische Mühlen Salami,"Rügenwalder, Rügenwalder Mühle",salamis,1046.0,0.8,1.3,3.1,19.0,0.0,0.0,19,E,19,0,E,21,C,C,D,C
+Salamini classico,Fratelli Beretta,salamis,2021.0,0.5,14.0,3.5,28.0,0.0,0.0,33,E,33,0,E,20,D,D,E,D
+Salami nach spanischer Art Salchichón Extra,Campofrio Food Group. S.A.U.,salamis,1544.0,2.5,11.0,3.5,21.0,0.0,0.0,31,E,31,0,E,28,D,D,D,D
+Italian Milano Salami,Tesco,salamis,1536.0,0.5,10.0,4.0,27.0,0.0,0.0,34,E,34,0,D,30,D,D,D,D
+Salam cu Invelis de Ceapa si Usturoi,Camara Noastra,salamis,1962.0,2.8,16.0,3.5,20.5,0.0,0.0,32,E,32,0,E,21,E,E,E,E
+Meatster,Eat go,salamis,2075.0,1.0,18.8999996185303,4.23228365229809,24.0,0.0,0.0,36,E,36,0,E,16,E,E,E,E
+Mini Salami,Dulano,salamis,1925.0,1.0,17.1,3.9,24.0,0.0,0.0,34,E,34,0,E,16,E,E,E,E
+Strolghino Salami,"Deluxe, Italiamo",salamis,1645.0,0.5,11.0,4.5,28.0,0.0,0.0,34,E,34,0,E,23,D,D,D,D
+Meda Salam Sinaia,Meda,salamis,1770.0,0.0,14.0,3.5,23.0,0.0,0.0,32,E,32,0,E,16,D,D,D,D
+Fresca Salumeria Prosciutto Cotto di Alta Qualità,Fratelli Beretta,salamis,539.0,0.5,2.0,2.1,20.0,0.0,0.0,13,D,13,0,D,30,C,C,D,B
+Delikates Geflügel Edelsalami,Dulano,salamis,904.0,0.5,6.5,3.8,22.0,0.0,0.0,26,E,26,0,E,16,D,D,D,C
+16 milano salami slices,"sainsbury's,by sainsbury's",salamis,1515.0,0.0,0.6,0.225,25.0,0.0,0.0,-2,A,5,7,E,27,B,B,D,B
+Rosette de Lyon,Saint Alby,salamis,1444.0,1.0,12.0,4.1,23.0,1.2,0.0,34,E,34,0,E,23,D,D,D,C
+Wurst  Salami Delikatess hauchfein,"Dulano, Lidl",salamis,1490.0,0.9,12.0,3.25,20.2,0.5,0.0,30,E,30,0,E,21,D,D,D,D
+Paprika Salami,Dulano,salamis,1280.0,0.0,3.0,1.25,19.0,0.0,0.0,12,D,12,0,E,16,D,D,D,C
+Salami,EDEKA Bio,salamis,1373.0,0.5,11.3,3.8,21.0,0.0,0.0,32,E,32,0,D,43,D,D,D,D
+MEATSTER Original,Eat+Go,salamis,1925.0,0.0,0.0,0.0,46.0,0.0,0.0,-2,A,5,7,E,16,A,A,D,A
+Delikatess Salami hauchfein,Dulano,salamis,1474.0,0.9,12.0,3.75,20.2,0.0,0.0,32,E,32,0,E,21,D,D,D,D
+Salam Sasesc Cristim 250GR  30und oferta,,salamis,1285.0,0.96,11.0,2.32,16.33,0.0,0.0,24,E,24,0,E,16,D,D,D,D
+Ferdi Fuchs Mini Salami,"Ferdi Fuchs, Stockmeyer",salamis,1790.0,0.2,14.0,4.14,32.0,0.0,0.0,35,E,35,0,E,21,D,D,D,D
+Bifi,"Bifi, null",salamis,2151.0,0.9,19.0,4.2,24.0,0.0,0.0,36,E,36,0,E,16,E,E,E,E
+TK  Beerenmischung,Freshona,frozen-fruits,255.0,6.7,0.1,0.01,0.9,1.3,0.0,1,B,1,0,C,59,C,C,C,B
+Lait Demiécrémé,BON ET BIO,frozen-fruits,192.0,4.8,1.0,0.1,3.2,0.0,0.0,0,A,1,1,C,57,C,C,C,C
+Arándanos enteros,Hacendado,frozen-fruits,219.0,10.0,0.0,0.0,0.7,2.4,0.0,1,B,1,0,C,56,B,B,C,A
+Perfectly imperfect Mixed berries,Tesco,frozen-fruits,182.0,6.5,0.1,0.01,1.0,3.75,0.0,0,A,1,1,B,64,B,B,B,B
+Myrtilles,Paquito,frozen-fruits,255.0,7.9,0.0,0.01,0.6,2.5,0.0,1,B,1,0,C,56,B,B,C,B
+Frozen blueberries,Sainsbury's,frozen-fruits,151.0,7.3,0.1,0.0,0.7,1.2,0.0,1,B,1,0,C,56,C,C,C,B
+TK  Himbeeren,Acona,frozen-fruits,224.0,5.5,0.1,0.0,1.6,4.9,0.0,-1,A,1,2,C,59,A,A,C,A
+Berry Mix with Sour Cherries,Verona,frozen-fruits,200.0,7.1,0.0,0.01,0.9,0.0,0.0,1,B,1,0,B,61,B,B,D,B
+Le petit doux,Le Paturon,frozen-fruits,1414.0,1.0,21.0,1.1,16.0,0.0,0.0,19,E,19,0,C,56,D,D,D,C
+Fresas Congeladas,Hacendado,frozen-fruits,126.0,4.7,0.0,0.0,0.7,0.0,0.0,1,B,1,0,A,75,B,B,C,A
+Blueberries,Four Seasons,frozen-fruits,190.0,9.12,0.125,0.0125,0.875,1.5,0.0,1,B,1,0,C,54,C,C,C,B
+,Picard,frozen-fruits,230.0,2.8,0.5,0.01,0.7,2.8,0.0,0,A,0,0,B,74,B,B,B,B
+Fruits rouges,"Marque Repère, Douceur du Verger, Fruistar",frozen-fruits,133.0,4.8,0.0,0.0,1.1,4.1,100.0,-6,A,1,7,B,64,B,A,B,A
+APPLES  BLUEBERRIES MINI FRUIT BAR,That's it.,frozen-fruits,1260.0,45.0,0.0,0.0,5.0,15.0,0.0,7,C,12,5,C,49,C,C,D,A
+Piña,Lidl,frozen-fruits,230.0,11.3,0.1,0.025,0.7,1.1,0.0,1,B,1,0,A,77,B,B,C,B
+Framboises surgelées,Lidl,frozen-fruits,224.0,5.5,0.1,0.0,1.6,0.0,0.0,1,B,1,0,C,45,C,C,C,B
+Myrtilles sauvages douces  sucrées  450g,U,frozen-fruits,255.0,7.9,0.1,0.01,0.6,2.5,0.0,1,B,1,0,C,54,B,B,C,B
+Framboises entières,Picard,frozen-fruits,207.0,6.0,0.1,0.01,1.2,6.1,100.0,-8,A,1,9,B,70,A,A,B,A
+Myrtilles sauvages bio,Picard,frozen-fruits,192.0,6.1,0.1,0.0,0.6,4.9,0.0,-1,A,1,2,B,74,A,A,B,A
+Céleri rémoulade,Déli'Salades,frozen-fruits,394.0,1.7,0.6,1.2,1.0,0.0,0.0,6,C,6,0,A,78,B,B,D,B
+sainsburys frozen raspberries,"Sainsbury's, Goodfellow & Steven",frozen-fruits,168.0,4.62,0.125,0.0125,1.38,6.75,0.0,-3,A,1,4,C,52,B,B,C,B
+ALDI Frozen Blueberries,Four Seasons Aldi,frozen-fruits,189.0,9.12,0.0,0.0,0.875,1.5,0.0,1,B,1,0,C,49,C,C,C,A
+Raspberries frozen,Tesco,frozen-fruits,192.0,5.1,0.1,0.025,1.5,5.2,0.0,-2,A,1,3,C,50,B,B,C,B
+Framboises Entières Surgelées 1kg,Picard,frozen-fruits,213.0,6.7,0.1,0.02,1.4,6.1,0.0,-3,A,1,4,C,50,B,B,C,B
+Frozen blueberries,Asda,frozen-fruits,189.0,9.1,0.1,0.01,0.9,1.5,0.0,1,B,1,0,C,49,C,C,C,B
+Fraises entières,Paquito,frozen-fruits,156.0,6.1,0.0,0.0,0.6,1.6,0.0,1,B,1,0,A,75,B,B,C,A
+Himbeeren,,frozen-fruits,214.0,7.2,0.3,0.03,1.1,1.7,0.0,1,B,1,0,C,52,C,C,C,B
+Beerenmischung TK,Alnatura,frozen-fruits,178.0,7.8,0.1,0.01,0.9,3.8,0.0,0,A,1,1,B,74,B,B,B,B
+Myrtilles,Bio Organic,frozen-fruits,178.0,6.3,0.1,0.03,0.4,2.4,0.0,1,B,1,0,B,69,B,B,B,B
+Framboises surgelées bio,LIDL,frozen-fruits,222.0,5.5,0.1,0.03,1.6,0.0,0.0,1,B,1,0,B,65,B,B,C,B
+Himbeeren,All Seasons,frozen-fruits,192.0,5.4,0.1,0.03,1.5,0.0,0.0,1,B,1,0,C,52,C,C,C,B
+BioBeerenmischung tiefgefroren,"Aldi, Gut Bio, Jütro",frozen-fruits,200.0,7.8,0.1,0.01,0.9,0.0,0.0,1,B,1,0,A,79,A,A,D,B
+Avocats en lamelles,Picard,frozen-fruits,552.0,0.5,3.5,0.19,1.2,4.0,0.0,2,B,4,2,C,52,B,B,C,B
+Frozen Raspberries,Asda,frozen-fruits,141.0,5.1,0.1,0.0,0.8,3.7,0.0,0,A,1,1,C,45,B,B,C,B
+ALDI Strawberries,Aldi,frozen-fruits,163.0,6.1,0.0,0.0,0.6,3.8,0.0,0,A,1,1,A,75,B,B,B,A
+Frozen Blueberries,Freshona,frozen-fruits,189.0,9.12,0.125,0.0125,0.875,1.5,0.0,1,B,1,0,C,49,C,C,C,B
+Ananas en morceaux,Picard,frozen-fruits,232.0,12.0,0.1,0.01,0.5,1.0,0.0,1,B,1,0,A,78,A,A,C,B
+Blueberries,Picard,frozen-fruits,272.0,14.0,0.10000000149012,0.01,0.80000001192093,1.6,0.0,1,B,1,0,C,56,C,C,C,B
+Arándanos,Carrefour,frozen-fruits,218.0,13.0,0.0,0.0,0.0,2.4,0.0,1,B,1,0,B,64,B,B,B,A
+ALDI Mango chunks,Four Seasons,frozen-fruits,264.0,13.0,0.10000000149012,0.0099999997764826,0.69999998807907,1.8,0.0,1,B,1,0,B,70,B,B,B,B
+Framboises entières,Paquito,frozen-fruits,208.0,5.6,0.1,0.0,1.3,5.6,0.0,-2,A,1,3,C,52,A,A,C,A
+Prince Goût Chocolat,LU,sweet-snacks,1960.0,31.5,5.5,0.5,6.5,4.0,0.0,19,E,21,2,D,44,D,D,D,C
+Tonik,bimo,sweet-snacks,2120.0,40.0,10.9,0.217,4.35,0.435,0.0,26,E,26,0,B,66,D,D,D,D
+Sésame,Gerblé,sweet-snacks,1961.0,17.0,2.0,0.38,10.0,4.6,0.0,10,C,12,2,C,57,C,C,C,C
+Henrys,Henry's,sweet-snacks,1841.0,24.2353,5.2941,0.882353,7.6471,2.3529,0.0,18,D,18,0,C,55,C,C,D,C
+KING COOKIES,Excelo,sweet-snacks,2021.0,32.0,12.0,0.27,5.2,0.0,0.0,26,E,26,0,C,50,D,D,D,D
+Sable coco Henry s 42g,Henry's,sweet-snacks,1850.0,23.8,7.14,0.899,7.62,2.38,0.0,20,E,20,0,C,58,D,D,D,C
+Biscuits croquants au coeur onctueux de Nutella,Nutella,sweet-snacks,2158.0,35.8,11.5,0.559,7.9,0.0,0.0,27,E,27,0,D,44,D,D,D,D
+Fourrés Chocolat Noir,Bjorg,sweet-snacks,1996.0,27.0,6.3,0.49,7.6,5.2,0.0,14,D,17,3,B,70,C,C,D,C
+Henrys,Henry’s,sweet-snacks,1840.0,24.2,5.29,0.882,7.65,2.35,0.0,18,D,18,0,B,64,C,C,D,C
+Momo black,Excelo,sweet-snacks,2073.0,27.0,9.9,0.32,7.0,0.0,0.0,20,E,20,0,D,40,D,D,D,D
+Eyoo cover,EXCELO,sweet-snacks,2122.0,0.0,0.0,0.0,6.0,0.0,0.0,4,C,6,2,D,32,C,C,D,A
+Pomme   Noisette,Gerblé,sweet-snacks,1902.0,11.0,1.5,0.01,9.8,6.6,0.0,-1,A,7,8,B,70,B,B,C,B
+Figue  son,Gerblé,sweet-snacks,1883.0,16.0,1.7,0.19,9.3,13.0,0.0,2,B,10,8,B,60,C,C,C,B
+Petit beurre,Bé,sweet-snacks,1771.0,15.3,8.5,0.23,6.6,1.2,0.0,18,D,18,0,C,53,C,C,D,C
+Pains au lait x10,Pasquier,sweet-snacks,1485.0,11.0,4.0,0.00275,8.6,3.5,0.0,5,C,9,4,B,71,C,C,C,B
+Brioche Tranchée Bio 400g,La Boulangère,sweet-snacks,1413.0,13.0,0.9,0.95,8.8,3.9,0.0,5,C,9,4,B,69,B,B,D,B
+King cookies choco,Excelo,sweet-snacks,1987.0,31.2,12.0,0.27,5.4,0.0,0.0,25,E,25,0,E,27,D,D,E,D
+La gâche tranchée,La Fournée Dorée,sweet-snacks,1434.0,13.0,7.4,1.12,8.1,0.0,0.0,17,D,17,0,C,49,D,D,D,D
+Granola LOriginal,"LU, Mondelez International",sweet-snacks,2058.0,28.0,12.0,1.2,5.9,3.5,0.0,24,E,25,1,D,40,D,D,D,D
+Kinder Bueno,Kinder,sweet-snacks,2393.0,41.2,17.3,0.1975,8.6,2.0,0.0,26,E,26,0,E,22,E,E,E,C
+Henrys Sable Coco Biscuit 85G,Henrys,sweet-snacks,1575.0,20.0,5.45,0.75,6.5,2.3,0.0,16,D,16,0,B,67,C,C,C,C
+Biscuit raisins,Gerblé,sweet-snacks,1858.0,17.0,1.3,0.2,8.5,4.9,0.0,5,C,10,5,B,69,C,C,C,B
+Nutri avoine chocolat,Bjorg,sweet-snacks,1900.0,17.0,3.2,0.61,8.2,7.6,0.0,10,C,15,5,B,61,C,C,C,C
+Biscuits goût chocolat,BN,sweet-snacks,1900.0,29.8,8.84,1.1,6.63,3.87,0.0,21,E,22,1,D,35,D,D,D,D
+digestives,McVitie's,sweet-snacks,2021.0,15.1,10.1,1.3,7.0,3.7,0.0,25,E,26,1,D,44,D,D,D,D
+Figolu,LUMondelez,sweet-snacks,1680.0,50.0,3.75,0.000937,4.69,3.12,0.0,17,D,18,1,C,49,C,C,D,C
+Krit krititas galletas saladas,"Cuétara, Krit",sweet-snacks,2113.0,8.7,12.0,1.7,6.5,2.5,0.0,25,E,25,0,B,74,D,D,D,C
+Biscuit lait chocolat,"Gerblé,Gerblé Vitalité,Nutrition & Santé",sweet-snacks,1919.0,21.0,2.8,0.74,8.5,5.0,0.0,11,D,14,3,B,74,C,C,C,C
+Crunchy Avoine  Chocolat Noir x 5 x 2 barres de 21 g,"General Mills,Nature Valley",sweet-snacks,1981.0,26.8,3.4,0.65,8.7,7.0,0.0,10,C,15,5,D,36,C,C,D,C
+Cookie cacao pépites Sans Sucre,Gerblé,sweet-snacks,1728.0,0.0,3.3,0.21,8.0,8.9,0.0,1,B,9,8,C,56,C,C,C,B
+petit déjeuner miel et pépites de chocolat,belvita,sweet-snacks,1711.0,26.0,2.8,1.4,5.7,7.6,0.0,12,D,17,5,B,71,D,D,D,C
+Poulet au Curry et Noix de Coco ,"WW,Weight Watchers",ready-meals,1205.0,2.5,1.6,0.6,6.3,1.1,0.0,4,C,6,2,E,18,C,C,C,C
+Couscous Oriental légumes cuisinés et poulet émincé,"WW, Weight Watchers",ready-meals,382.0,2.2,0.3,0.69,6.9,1.4,28.3,2,B,4,2,B,69,B,B,C,B
+Cuisiné cappelletti,Céréal BIO,ready-meals,415.0,3.2,0.5,0.56,3.7,3.2,0.0,1,B,3,2,B,70,B,B,C,B
+Le couscous à la marocaine,Fleury Michon,ready-meals,599.0,2.8,1.8,0.72,8.2,1.3,0.0,2,B,5,3,B,70,C,C,C,B
+Brandade de Morue parmentière 2 personnes,Pêcheries Basques,ready-meals,638.0,0.5,1.1,0.8,6.6,0.0,0.0,4,C,6,2,E,15,C,C,C,C
+Risotto poulet  cèpes crème fraîche petits oignons,Fleury Michon,ready-meals,540.0,0.8,2.9,0.66,5.6,0.5,0.0,4,C,6,2,C,56,C,C,C,C
+Penne au Poulet et au Pesto,Marie,ready-meals,778.0,1.6,1.5,0.65,8.0,1.2,10.1,3,C,6,3,D,35,C,C,C,C
+St Jacques fondue de poireaux  Riz Basmati,Marie,ready-meals,605.0,1.2,3.0,0.59,5.8,0.6,13.9,4,C,6,2,B,63,C,B,C,B
+Emincés de boeuf sauce poivre  pommes de terre,Fleury Michon,ready-meals,598.0,0.786,1.79,0.607,6.43,1.0,0.0,3,C,5,2,A,75,C,C,C,B
+Le Filet de Poulet et ses Pommes de Terre à la Sarladaise,Fleury Michon,ready-meals,659.0,0.9,1.9,0.73,10.0,1.3,0.0,1,B,5,4,D,30,C,C,C,B
+Paëlla royale aux petites gambas et au safran,Marie,ready-meals,412.0,1.2,0.6,0.79,5.4,0.8,20.0,2,B,4,2,D,33,C,B,D,B
+Le Parmentier de Boeuf Charolais purée à la crème fraîche,Fleury Michon,ready-meals,571.0,2.6,3.4,0.71,9.2,1.2,0.0,4,C,7,3,E,17,C,C,C,B
+Tagliatelles au Poulet  ChampignonsCrème,"WW,Weight Watchers",ready-meals,427.0,1.0,0.9,0.88,7.67,0.9,17.2,2,B,5,3,E,26,C,C,C,B
+Frozen Baked Jacket Potatoes,McCain,ready-meals,334.0,1.9,0.1,0.005,2.15,1.95,0.0,0,A,0,0,D,44,B,B,B,B
+Aiguillettes de poulet au miel et aux épices semoule,Picard,ready-meals,517.0,4.9,0.3,0.35,8.4,4.7,0.0,-2,A,3,5,D,35,C,C,C,B
+La Paëlla Valenciana poulet rôti chorizo et fruits de mer,Fleury Michon,ready-meals,765.0,0.7,1.6,0.71,11.0,1.2,0.0,2,B,6,4,D,32,C,C,C,C
+Quinoa poulet et sésame,"Jardin bio, Léa Nature",ready-meals,731.0,3.0,1.2,0.7,6.9,6.5,0.0,0,A,6,6,C,48,C,C,C,C
+Escalope Milanaise Dinde 100 filet,Marie,ready-meals,670.0,2.6,0.9,0.65,7.9,1.2,16.4,2,B,5,3,D,34,C,C,C,B
+Nouilles japonaises saveur boeuf teppanyaki,Tanoshi,ready-meals,337.0,0.6,0.4,0.85,1.9,0.6,0.0,5,C,5,0,C,51,C,C,D,B
+Pastabox Carbonara,Sodebo,ready-meals,695.0,1.9,3.7,0.66,7.1,1.2,0.0,6,C,8,2,C,54,C,C,C,C
+Poulet  Purée de Courgettes pointe de crème fraîche,Fleury Michon,ready-meals,463.0,2.7,2.4,0.67,5.7,1.4,0.0,4,C,6,2,E,28,C,C,C,C
+Quinotto Légumes verts Parmesan,Jardin bio,ready-meals,553.0,2.5,1.4,0.7,7.6,3.1,0.0,1,B,5,4,D,43,C,C,C,B
+Lasagnes à la bolognaise,Marie,ready-meals,570.0,3.3,2.6,0.67,7.5,1.0,11.176,3,C,6,3,D,40,C,C,C,C
+Poulet et petites pâtes sauce aux champignons,Picard,ready-meals,546.0,1.0,2.1,0.59,7.8,1.1,0.0,2,B,5,3,D,42,C,C,C,C
+Poêlée de gnocchis tomates mozzarella,Picard,ready-meals,671.0,8.4,1.4,0.6,5.2,2.7,0.0,4,C,6,2,A,86,C,C,C,B
+Le Kebab de Poulet et sa Semoule à lOrientale,Fleury Michon,ready-meals,717.0,2.6,1.3,0.73,7.3,0.8,0.0,3,C,6,3,E,28,C,C,C,C
+Lasagnes saumon epinard,Picard,ready-meals,427.0,1.7,1.9,0.7,6.3,1.5,0.0,3,C,5,2,C,46,C,C,C,C
+Émincés de poulet conchiglie complètes et légumes à litalienne,Picard,ready-meals,413.0,2.7,0.7,0.32,7.9,3.1,0.0,-2,A,2,4,E,28,B,B,C,B
+Fromage blanc nature,MILKY FOOD PROFESSIONAL,cheeses,337.0,0.0,0.0,0.0,7.3,0.0,0.0,-2,A,1,3,A,76,B,B,B,A
+Jben,Jaouda,cheeses,984.0,0.0,15.0,0.46,8.0,0.0,0.0,14,D,14,0,D,44,C,C,D,C
+Cheddar,la Hollandaise,cheeses,1130.0,6.0,12.0,1.5,9.0,0.0,0.0,21,E,21,0,D,38,D,D,D,D
+Cream cheese,Original,cheeses,1061.0,0.0,0.0,0.0,10.0,0.0,0.0,-1,A,3,4,D,35,B,B,C,A
+,Gervais,cheeses,573.0,7.2,4.8,0.5,7.0,0.0,0.0,6,C,8,2,B,71,C,C,C,C
+Skyr nature 0,Yoplait,cheeses,238.0,3.6,0.065,0.1375,9.5,0.0,0.0,-2,A,1,3,A,81,B,B,B,A
+Jebli,"Centrale, Danone, Jebli",cheeses,941.0,0.0,13.0,0.76,6.5,0.0,0.0,15,D,15,0,D,42,C,C,D,C
+Carré Frais,Elle & Vire,cheeses,356.0,2.9,0.2,1.2775,16.0,0.0,0.0,1,B,7,6,C,55,B,B,C,B
+Philadelphia,Mondelez International,cheeses,933.0,4.3,14.0,0.75,5.4,0.2,0.0,16,D,16,0,D,43,D,D,D,C
+Carré Frais  Nature,Elle&Vire,cheeses,802.0,2.5,11.0,1.2,12.0,0.0,0.0,17,D,17,0,C,57,C,C,D,C
+Tranches Au Goût Cheddar,Ideal,cheeses,1176.0,0.0,10.0,3.25,8.0,0.0,0.0,29,E,29,0,D,31,D,D,D,C
+,DANONE,cheeses,1026.0,5.5,10.0,1.0,8.0,0.0,0.0,19,E,19,0,C,49,C,C,D,C
+Paysan Breton  Le Fromage Fouetté Madame Loïk  Nature au Sel de Guérande,"Le Fromage Fouetté Madame Loïk, Paysan breton",cheeses,1039.0,3.0,17.3,1.1,5.9,0.0,0.0,18,D,18,0,C,58,D,D,D,C
+Kiri carré 8p,Kiri,cheeses,950.0,2.0,13.0,1.6,9.0,0.0,0.0,20,E,20,0,D,37,D,D,D,C
+Perly fromage,perly,cheeses,1096.0,0.0,15.2,1.6,10.0,0.0,0.0,21,E,21,0,D,35,D,D,D,C
+St Môret,St Môret,cheeses,851.0,3.0,13.2,1.2,8.3,0.0,0.0,17,D,17,0,C,50,C,C,D,C
+Coulommiers Doux et Crémeux,"CF&R,Cœur de Lion,Savencia",cheeses,1174.0,0.1,16.0,1.5,18.0,0.0,0.0,20,E,20,0,C,55,C,C,D,C
+Le Goût Primeur format familial,"Savencia, St Moret",cheeses,851.0,3.0,13.2,1.2,8.3,0.0,0.0,17,D,17,0,C,50,C,C,D,C
+Caprice des dieux,caprice des dieux,cheeses,1393.0,0.1,21.0,1.3775,15.0,0.0,0.0,20,E,20,0,C,57,D,D,D,C
+PRESIDENT CAMEMBERT 250g,"Lactalis, Président",cheeses,1117.0,0.0,15.0,1.4,20.0,0.0,0.0,19,E,19,0,C,48,C,C,D,C
+Kiri,Kiri,cheeses,950.0,1.88,13.1,1.62,8.75,0.0,0.0,20,E,20,0,E,28,D,D,D,C
+Mature Cheddar,Cathedral City,cheeses,1741.0,0.1,21.7,1.77,25.4,0.0,0.0,23,E,23,0,D,38,D,D,D,D
+La bûche SainteMaure PoitouCharentes,Soignon,cheeses,1208.0,1.0,16.0,1.5,20.0,0.0,0.0,20,E,20,0,D,31,D,D,D,D
+Original Doux  crémeux,,cheeses,1059.0,0.0,0.0,0.0,10.0,0.0,0.0,-1,A,3,4,D,35,B,B,C,A
+El Mejor chef fromage 16p,,cheeses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,A,0,0,D,35,A,A,D,A
+Original Philadelphia,Philadelphia,cheeses,946.0,4.3,14.0,0.7375,5.4,0.2,0.0,16,D,16,0,D,37,D,D,D,C
+b,gastro mixte,cheeses,942.0,4.3,14.0,0.75,5.4,0.2,0.0,16,D,16,0,D,40,D,D,D,C
+KiriKäse,Kiri,cheeses,1269.0,2.0,19.5,1.3,9.0,0.0,0.0,19,E,19,0,C,56,D,D,D,C
+Kiri carré 36,Kiri,cheeses,950.0,2.0,13.0,1.6,9.0,0.0,0.0,20,E,20,0,D,35,D,D,D,C
+Kiri Crème 12 portions,Kiri,cheeses,1269.0,2.0,19.5,1.3,9.0,0.0,0.0,19,E,19,0,C,49,D,D,D,C
+Frommage fondu,REWE Beste Wahl,cheeses,1248.0,4.0,16.5,1.2,7.0,0.0,0.0,19,E,19,0,E,28,D,D,D,D
+,Ladid,cheeses,888.4,7.6,11.5,3.25,7.4,0.0,0.0,29,E,29,0,E,28,D,D,D,D
+la vache qui rit,,cheeses,1590.0,3.01,20.5,3.31,13.3,0.0,0.0,30,E,30,0,D,35,D,D,D,D
+Philadelphia Original,"Mondelez,Philadelphia",cheeses,941.0,4.3,14.0,0.74,5.4,0.0,0.0,16,D,16,0,D,42,D,D,D,C
+La vache qui rit,La vache qui rit,cheeses,970.0,6.5,12.0,1.7,11.0,0.0,0.0,21,E,21,0,D,41,D,D,D,D
+Loriginal tartare ail  fines herbes,"Fromarsac, Savencia, Tartare",cheeses,1435.0,2.3,24.5,1.1,7.0,0.0,0.0,19,E,19,0,C,48,D,D,D,C
+Queso para untar Philadelphia,Philadelphia,cheeses,1028.0,2.8,16.0,1.06,3.7,0.2,0.0,18,D,18,0,D,42,D,D,D,D
+la hollandaise,la hollandaise,cheeses,1130.0,6.0,12.0,1.5,9.0,0.0,0.0,21,E,21,0,E,28,D,D,D,D
+الهاندس,La Hollandaise,cheeses,1130.0,6.0,15.0,0.0,10.0,0.0,0.0,14,D,14,0,E,28,C,C,D,C
+كريميو,Cremio,cheeses,1038.0,0.0,17.0,4.25,8.0,0.0,0.0,33,E,33,0,D,35,D,D,D,C
+9 Minis St Moret 178 MG,"Savencia,St Moret",cheeses,858.0,3.0,13.2,1.3,8.3,0.0,0.0,18,D,18,0,C,59,C,C,D,C
+Leerdammer original 8 tranches 200g,Leerdammer,cheeses,1460.0,0.1,18.5,1.5,26.0,0.0,0.0,21,E,21,0,D,35,D,D,D,D
+,Khayrat,cheeses,1052.0,0.0,0.0,0.0,10.0,0.0,0.0,-1,A,3,4,B,67,B,B,B,A
+Mon ptit plaisir,Milbona,cheeses,833.0,3.3,11.7,1.0,8.2,0.5,0.0,17,D,17,0,D,40,D,D,D,C
+Natural Cottage Cheese,Milbona,cheeses,406.0,2.8,3.0,0.52,11.5,0.0,0.0,2,B,6,4,D,39,C,C,C,B
+Original Full Fat Soft Cheese,Emporium,cheeses,958.0,3.2,13.7,0.7375,5.6,0.3,0.0,15,D,15,0,C,49,C,C,D,C
+Le berger From blanc Nat,,cheeses,1096.0,0.0,13.0,0.0,20.0,0.0,0.0,13,D,13,0,D,35,C,C,D,A
+la vache qui rit 24,,cheeses,1060.0,3.01,13.9,5.72,14.5,0.0,0.0,33,E,33,0,D,35,D,D,D,C
+Carré frais 0 pourcent ail et fines herbes,Elle & Vire,cheeses,352.0,2.8,0.0,0.0033,16.0,0.0,0.0,-5,A,1,6,C,50,B,B,B,A
+Perly,Perly,cheeses,2152.0,0.0,15.2,1.6,10.0,0.0,0.0,24,E,24,0,D,35,D,D,E,D
+babybel,Babybel,cheeses,1240.0,0.05,15.5,1.68,22.0,0.0,0.0,21,E,21,0,D,35,D,D,D,D
+MUSCLY FROMAGE 24,"Jaouda, Copag",cheeses,1094.0,0.0,15.0,1.6,9.0,0.0,0.0,21,E,21,0,B,73,C,C,D,B
+Or Blanc,Or Blanc,cheeses,946.0,5.9,12.0,4.25,9.5,0.35,0.0,33,E,33,0,E,28,D,D,D,C
+Le goût primeur  Ligne  plaisir,"Savencia,St moret",cheeses,553.0,5.0,5.5,1.0,10.0,0.0,0.0,12,D,12,0,C,56,C,C,D,C
+Chavroux Pur Chèvre,Chavroux,cheeses,673.0,2.6,9.0,1.0,8.7,0.0,0.0,16,D,16,0,E,19,D,D,D,C
+Paysan Breton  Le Fromage Fouetté Madame Loïk  Nature au Sel de Guérande  Sel réduit 25,"Le Fromage Fouetté Madame Loïk, Paysan breton",cheeses,1039.0,3.0,17.0,0.6,5.9,0.0,0.0,15,D,15,0,C,49,C,C,D,C
+La bûche fondante,"Lactalis, Président",cheeses,1140.0,0.5,16.0,1.5,17.0,0.0,0.0,20,E,20,0,D,40,D,D,D,C
