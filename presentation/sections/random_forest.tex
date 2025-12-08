@@ -1,0 +1,48 @@
+\section{Random Forest Method}
+
+    \begin{frame}{Random Forest Configuration}
+        \begin{block}{Model Setup}
+            \begin{itemize}
+                \item Uses the same 8 nutritional criteria as ELECTRE
+                \item Random Forest Classifier with 200 estimators
+                \item Random state = 42 for reproducibility
+                \item Target: Predict Nutri-Score categories (A to E)
+            \end{itemize}
+        \end{block}
+
+        \begin{alertblock}{Training Strategy}
+            \begin{itemize}
+                \item Stratified train/test split (50 samples for training)
+                \item Maintains class balance across Nutri-Score categories
+                \item Predictions made only on test set
+                \item Confusion matrix computed for evaluation
+            \end{itemize}
+        \end{alertblock}
+    \end{frame}
+
+    \begin{frame}{Random Forest Visualizations}
+        \begin{block}{Feature Dendrogram}
+            \begin{itemize}
+                \item Hierarchical clustering of nutritional criteria
+                \item Based on absolute correlation matrix
+                \item Distance = 1 - |correlation|
+                \item UPGMA (average linkage) method
+            \end{itemize}
+        \end{block}
+
+        \begin{center}
+            \includegraphics[width=0.75\textwidth]{results/random_forest_dendrogram.png}
+        \end{center}
+    \end{frame}
+
+    \begin{frame}{Random Forest Visualizations}
+    \begin{block}{Confusion Matrix}
+        \begin{itemize}
+        \item Results closest to the initial Nutri-Score classification
+        \end{itemize}
+
+    \end{block}
+        \begin{center}
+            \includegraphics[width=0.7\textwidth]{results/RF_confusion.png}
+        \end{center}
+    \end{frame}
