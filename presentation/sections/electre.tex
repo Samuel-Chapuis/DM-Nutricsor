@@ -1,6 +1,6 @@
 \section{ELECTRE TRI Method}
     
-    \begin{frame}{ELECTRE TRI Criteria and Weights}
+    \begin{frame}{ELECTRE Criteria and Weights}
         \begin{block}{Eight Decision Criteria}
             \small
             \begin{columns}[t]
@@ -33,7 +33,7 @@
         \end{block}
     \end{frame}
     
-    \begin{frame}{Limiting Profiles Construction}
+    \begin{frame}{ELECTRE Profiles}
         \begin{block}{Quantile-Based Approach}
             Profiles $\pi_2$ to $\pi_5$ are built from data quantiles:
             \begin{itemize}
@@ -53,46 +53,46 @@
         \end{alertblock}
     \end{frame}
     
-    \begin{frame}{Assignment Procedures}
-        \begin{columns}[t]
-            \column{0.5\textwidth}
-            \begin{block}{Pessimistic Assignment}
-                Compare alternative $a$ with profiles from top to bottom:
-                \begin{enumerate}
-                    \item Start from $\pi_5$ down to $\pi_1$
-                    \item Find highest $\pi_k$ where $a$ outranks $\pi_k$
-                    \item Assign to category $k$
-                \end{enumerate}
-                \vskip 1ex
-                \textit{Conservative approach}
-            \end{block}
+    % \begin{frame}{Assignment Procedures}
+    %     \begin{columns}[t]
+    %         \column{0.5\textwidth}
+    %         \begin{block}{Pessimistic Assignment}
+    %             Compare alternative $a$ with profiles from top to bottom:
+    %             \begin{enumerate}
+    %                 \item Start from $\pi_5$ down to $\pi_1$
+    %                 \item Find highest $\pi_k$ where $a$ outranks $\pi_k$
+    %                 \item Assign to category $k$
+    %             \end{enumerate}
+    %             \vskip 1ex
+    %             \textit{Conservative approach}
+    %         \end{block}
             
-            \column{0.5\textwidth}
-            \begin{block}{Optimistic Assignment}
-                Compare profiles with alternative:
-                \begin{enumerate}
-                    \item Start from $\pi_2$ up to $\pi_6$
-                    \item Find lowest $\pi_k$ strictly preferred to $a$
-                    \item Assign to category $k-1$
-                \end{enumerate}
-                \vskip 1ex
-                \textit{Favorable approach}
-            \end{block}
-        \end{columns}
+    %         \column{0.5\textwidth}
+    %         \begin{block}{Optimistic Assignment}
+    %             Compare profiles with alternative:
+    %             \begin{enumerate}
+    %                 \item Start from $\pi_2$ up to $\pi_6$
+    %                 \item Find lowest $\pi_k$ strictly preferred to $a$
+    %                 \item Assign to category $k-1$
+    %             \end{enumerate}
+    %             \vskip 1ex
+    %             \textit{Favorable approach}
+    %         \end{block}
+    %     \end{columns}
         
-        \vskip 2ex
-        \begin{center}
-            \textbf{Both procedures tested with $\lambda = 0.6$ and $0.7$}
-        \end{center}
-    \end{frame}
+    %     \vskip 2ex
+    %     \begin{center}
+    %         \textbf{Both procedures tested with $\lambda = 0.6$ and $0.7$}
+    %     \end{center}
+    % \end{frame}
     
-    \begin{frame}{Results Visualization}
+    \begin{frame}{ELECTRE Histograms}
         \begin{center}
             \includegraphics[width=0.95\textwidth]{results/electre_trihist_combined.png}
         \end{center}
     \end{frame}
     
-    \begin{frame}{Confusion Matrices}
+    \begin{frame}{ELECTRE Confusion Matrices}
         \begin{center}
             \includegraphics[width=0.85\textwidth]{results/confusion_matrix.png}
         \end{center}
