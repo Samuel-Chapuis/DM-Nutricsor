@@ -1,0 +1,9 @@
+Criterion,Direction,Weight
+Energie_kJ,-1,0.125
+Sucres_g,-1,0.125
+Graisses_Sat_g,-1,0.125
+Sel_g,-1,0.125
+Proteines_g,1,0.125
+Fibres_g,1,0.125
+Fruits_Legumes_Pct,1,0.125
+GreenScore_Score,1,0.125

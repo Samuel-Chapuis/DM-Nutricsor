@@ -1,0 +1,70 @@
+\section{Weighted Sum Model}
+
+\begin{frame}{WSM - Methodology}
+    % \begin{block}{Principle}
+    %     Aggregates multiple criteria into a single global score for each alternative. Normalization is essential to handle different units (kJ, g, \%).
+    % \end{block}
+
+    \begin{block}{Mathematical Formulation}
+        \begin{equation*}
+            S(a) = \sum_{j=1}^{n} w_j \cdot v_j(a)
+        \end{equation*}
+        Where $w_j$ is the weight of criterion $j$ and $v_j(a)$ is the normalized value.
+    \end{block}
+
+    \begin{alertblock}{Normalization Logic (Min-Max)}
+        \begin{itemize}
+            \item \textbf{Benefit} (Maximize, e.g., Fibers): 
+            $v_j(a) = \frac{g_j(a) - g_j^{min}}{g_j^{max} - g_j^{min}}$
+            \item \textbf{Cost} (Minimize, e.g., Sugar): 
+            $v_j(a) = \frac{g_j^{max} - g_j(a)}{g_j^{max} - g_j^{min}}$
+        \end{itemize}
+    \end{alertblock}
+\end{frame}
+
+\begin{frame}{WSM - Configuration}
+    \begin{columns}[t]
+        \column{0.5\textwidth}
+        \begin{block}{Model Parameters}
+            \begin{itemize}
+                \item \textbf{Criteria}: 8 attributes (Energy, Sugar, Salt, Proteins, etc.)
+                \item \textbf{Weights}: Uniform distribution ($w_j = 0.125$)
+                \item \textbf{Directions}: 
+                \begin{itemize}
+                    \item Minimize: Energy, Sugar, Fat, Salt
+                    \item Maximize: Proteins, Fibers, Fruits, GreenScore
+                \end{itemize}
+            \end{itemize}
+        \end{block}
+
+        \column{0.5\textwidth}
+        \begin{block}{Score Processing}
+            \begin{itemize}
+                \item \textbf{Stretching}: Final scores are stretched to $[0, 1]$ to ensure full coverage of classes A to E.
+                \item \textbf{Mapping}:
+                \begin{itemize}
+                    \item $[0, 0.2] \to A$
+                    \item $]0.2, 0.4] \to B$
+                    \item $]0.4, 0.6] \to C$
+                    \item $]0.6, 0.8] \to D$
+                    \item $]0.8, 1.0] \to E$
+                \end{itemize}
+            \end{itemize}
+        \end{block}
+    \end{columns}
+
+\end{frame}
+
+\begin{frame}{WSM Visualizations}
+    \begin{block}{Confusion Matrix}
+        \begin{itemize}
+        \item Results are very centred, with most products classified as C
+        \end{itemize}
+
+    \end{block}
+        \begin{center}
+            \includegraphics[width=0.7\textwidth]{results/WSM_confusion.png}
+        \end{center}
+\end{frame}
+
+
