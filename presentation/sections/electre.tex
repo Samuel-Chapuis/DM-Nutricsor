@@ -1,0 +1,99 @@
+\section{ELECTRE TRI Method}
+    
+    \begin{frame}{ELECTRE TRI Criteria and Weights}
+        \begin{block}{Eight Decision Criteria}
+            \small
+            \begin{columns}[t]
+                \column{0.5\textwidth}
+                \textbf{Negative criteria} (minimize):
+                \begin{itemize}
+                    \item Energy (kJ)
+                    \item Sugars (g)
+                    \item Saturated fats (g)
+                    \item Salt (g)
+                \end{itemize}
+                
+                \column{0.5\textwidth}
+                \textbf{Positive criteria} (maximize):
+                \begin{itemize}
+                    \item Proteins (g)
+                    \item Fibers (g)
+                    \item Fruits/vegetables (\%)
+                    \item GreenScore
+                \end{itemize}
+            \end{columns}
+        \end{block}
+        
+        \begin{block}{Configuration}
+            \begin{itemize}
+                \item Equal weights: $w_i = 1/8$ for all criteria
+                \item Lambda thresholds tested: $\lambda = 0.6$ and $\lambda = 0.7$
+                \item Categories: E (worst) to A (best)
+            \end{itemize}
+        \end{block}
+    \end{frame}
+    
+    \begin{frame}{Limiting Profiles Construction}
+        \begin{block}{Quantile-Based Approach}
+            Profiles $\pi_2$ to $\pi_5$ are built from data quantiles:
+            \begin{itemize}
+                \item $\pi_2$: 20th percentile (Q20)
+                \item $\pi_3$: 40th percentile (Q40)
+                \item $\pi_4$: 60th percentile (Q60)
+                \item $\pi_5$: 80th percentile (Q80)
+                \item $\pi_1$ and $\pi_6$: min/max boundaries (with $\epsilon$)
+            \end{itemize}
+        \end{block}
+        
+        \begin{alertblock}{Direction Handling}
+            \begin{itemize}
+                \item For positive criteria (maximize): profiles increase with quantiles
+                \item For negative criteria (minimize): profiles decrease with quantiles
+            \end{itemize}
+        \end{alertblock}
+    \end{frame}
+    
+    \begin{frame}{Assignment Procedures}
+        \begin{columns}[t]
+            \column{0.5\textwidth}
+            \begin{block}{Pessimistic Assignment}
+                Compare alternative $a$ with profiles from top to bottom:
+                \begin{enumerate}
+                    \item Start from $\pi_5$ down to $\pi_1$
+                    \item Find highest $\pi_k$ where $a$ outranks $\pi_k$
+                    \item Assign to category $k$
+                \end{enumerate}
+                \vskip 1ex
+                \textit{Conservative approach}
+            \end{block}
+            
+            \column{0.5\textwidth}
+            \begin{block}{Optimistic Assignment}
+                Compare profiles with alternative:
+                \begin{enumerate}
+                    \item Start from $\pi_2$ up to $\pi_6$
+                    \item Find lowest $\pi_k$ strictly preferred to $a$
+                    \item Assign to category $k-1$
+                \end{enumerate}
+                \vskip 1ex
+                \textit{Favorable approach}
+            \end{block}
+        \end{columns}
+        
+        \vskip 2ex
+        \begin{center}
+            \textbf{Both procedures tested with $\lambda = 0.6$ and $0.7$}
+        \end{center}
+    \end{frame}
+    
+    \begin{frame}{Results Visualization}
+        \begin{center}
+            \includegraphics[width=0.95\textwidth]{results/electre_trihist_combined.png}
+        \end{center}
+    \end{frame}
+    
+    \begin{frame}{Confusion Matrices}
+        \begin{center}
+            \includegraphics[width=0.85\textwidth]{results/confusion_matrix.png}
+        \end{center}
+    \end{frame}
